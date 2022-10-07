@@ -5,8 +5,8 @@ AI playing the classic Snake game and improving with reinforcement learning (Dee
 
 Followed tutorials from Python Engineer on YouTube
 CREDIT:
-- [GITHUB] (https://github.com/python-engineer/snake-ai-pytorch) "GitHub: Python Engineer"
-- [YOUTUBE PLAYLIST] (https://youtube.com/playlist?list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV) "YouTube Playlist"
+- [GITHUB](https://github.com/python-engineer/snake-ai-pytorch) "GitHub: Python Engineer"
+- [YOUTUBE PLAYLIST](https://youtube.com/playlist?list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV) "YouTube Playlist"
 
 ## Remarks
 
