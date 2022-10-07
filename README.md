@@ -24,3 +24,9 @@ CREDIT:
 - After 300 games, SnakeAI has yet to improve: still runs into itself.
 
 
+## Files
+agent.py: AI playing Snake
+arial.ttf: Arial font for PyGame
+game.py: classic Snake game
+helper.py: Graph displaying score over number of games (MatPlotLib)
+model.py: Traininig model for AI
