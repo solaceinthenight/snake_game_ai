@@ -34,3 +34,6 @@ game.py: Classic Snake game (PyGame)
 helper.py: Graph displaying score over number of games (MatPlotLib)
 
 model.py: Traininig model for AI (PyTorch)
+
+## For the future
+Looking to fix SnakeAI's limitations after gettting more comfortable with Reinforcement Learning.
